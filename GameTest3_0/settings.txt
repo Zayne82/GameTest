@@ -1,0 +1,54 @@
+[Program Settings]
+
+WindowMode      = Windowed 		#Windowed, Fullscreen, WindowedFullscreen
+WindowResX      = 800
+WindowResY      = 600
+WindowScale     = true			#Scale the game to cover the whole screen, true or false
+WindowAspectLim = true          	#Limit aspect ratio between 4:3 and 16:9
+
+
+
+[Keyboard Settings]
+
+# A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+# Num0-Num9,Numpad0-Numpad9,F1-F12
+# Escape,LControl,LShift,LAlt,LSystem,RControl,RShift,RAlt,RSystem
+# Menu,LBracket,RBracket,SemiColon,Comma,Period,Quote,Slash,BackSlash
+# Tilde,Equal,Dash,Space,Return,BackSpace,Tab,PageUp,PageDown,End,Home,Insert
+# Delete,Add,Subtract,Multiply,Divide,Left,Right,Up,Down,Pause
+
+KeyboardUp    	= Up
+KeyboardDown	= Down
+KeyboardLeft	= Left
+KeyboardRight	= Right
+KeyboardBtn1	= Z
+KeyboardBtn2	= S
+KeyboardBtn3	= A
+KeyboardBtn4	= W
+KeyboardBtnL	= Q
+KeyboardBtnR	= E
+KeyboardStart	= Return
+KeyboardSelect	= Space
+
+
+
+[Joystick/Gamepad Settings]
+
+JoystickUp      = JoyBtn4
+JoystickDown	= JoyBtn6
+JoystickLeft	= JoyBtn7
+JoystickRight	= JoyBtn5
+JoystickBtn1	= JoyBtn14
+JoystickBtn2	= JoyBtn13
+JoystickBtn3	= JoyBtn15
+JoystickBtn4	= JoyBtn12
+JoystickBtnL	= JoyBtn10
+JoystickBtnR	= JoyBtn11
+JoystickStart	= JoyBtn3
+JoystickSelect	= JoyBtn0
+
+
+
+[Game Settings]
+
+Character	= Setzer			#Locke,Gerad,Terra,Setzer

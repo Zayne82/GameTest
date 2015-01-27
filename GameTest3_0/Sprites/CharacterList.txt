@@ -1,0 +1,13 @@
+4
+16
+24
+GeradWalk.png
+16
+24
+LockeWalk.png
+16
+24
+SetzerWalk.png
+16
+24
+TerraWalk.png
